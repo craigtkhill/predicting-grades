@@ -1,0 +1,25 @@
+ModuleCode,ModuleName,ModuleType,AssessmentName,AssessmentType,SubmissionType,CreditsWeight
+AP1033,Individual Differences,Psychology,Essay,CA,Written,100
+CS3031,Interaction Design,UX,Report,CA,Written,25
+CS3032,Interaction Design,UX,Report,CA,Written,25
+CS3033,Interaction Design,UX,Report,CA,Written,50
+AP3126,Health Psychology,Psychology,Quiz,CA,Quiz,10
+AP3126,Health Psychology,Psychology,Quiz,CA,Quiz,10
+AP3126,Health Psychology,Psychology,Critique,CA,Written,20
+AP3126,Health Psychology,Psychology,Behaviour Programme,,Written,60
+CS3500,Software Engineering,Computer Science,Assignment,CA,Programming,30
+CS3500,Software Engineering,Computer Science,Lab Assignment,CA,Programming,30
+CS3500,Software Engineering,Computer Science,Exam,Exam,Written,40
+AP3134,Team Project,Psychology,Project Proposal,CA,Written,50
+AP3134,Team Project,Psychology,Presentation,CA,Presentation,50
+AP3134,Team Project,Psychology,Dissertation,CA,Written,300
+CS3062,Computing in Society,UX,Assignment,CA,Written,25
+CS3062,Computing in Society,UX,Assignment,CA,Written,25
+CS3062,Computing in Society,UX,Project,CA,Written,50
+AP2049,Psychology of Aging,Psychology,Essay,CA,Written,100
+CS3032,Mobile Multimedia,Computer Science,Assignment,CA,Programming,20
+CS3032,Mobile Multimedia,Computer Science,Assignment,CA,Programming,20
+CS3032,Mobile Multimedia,Computer Science,Exam,Exam,Written,60
+CS3033,Data Mining,Statistics,Assignment,CA,Programming,25
+CS3033,Data Mining,Statistics,Assignment,CA,Programming,25
+CS3033,Data Mining,Statistics,Exam,Exam,Written,50
